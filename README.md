@@ -13,7 +13,7 @@ Gabriel Callegari é um estudante apaixonado por programação, dedicado a apren
 <a href="https://www.instagram.com/gfc.pro22/" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
 </a>
-<a href="https://twitter.com/seu-perfil" target="_blank">
+<a href="https://twitter.com/GFcallegari2" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" />
 </a>
 
